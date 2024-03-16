@@ -18,8 +18,8 @@ TIME_DELTA = 100
 TRAINING_DATA_PREFIX = "./training"
 
 ALL_SYMBOLS = [
-    'PEARLS',
-    'BANANAS',
+    'AMETHYSTS',
+    'STARFRUIT',
     'COCONUTS',
     'PINA_COLADAS',
     'DIVING_GEAR',
@@ -31,8 +31,8 @@ ALL_SYMBOLS = [
     'PICNIC_BASKET'
 ]
 POSITIONABLE_SYMBOLS = [
-    'PEARLS',
-    'BANANAS',
+    'AMETHYSTS',
+    'STARFRUIT',
     'COCONUTS',
     'PINA_COLADAS',
     'DIVING_GEAR',
@@ -42,7 +42,7 @@ POSITIONABLE_SYMBOLS = [
     'UKULELE',
     'PICNIC_BASKET'
 ]
-first_round = ['PEARLS', 'BANANAS']
+first_round = ['AMETHYSTS', 'STARFRUIT']
 snd_round = first_round + ['COCONUTS',  'PINA_COLADAS']
 third_round = snd_round + ['DIVING_GEAR', 'DOLPHIN_SIGHTINGS', 'BERRIES']
 fourth_round = third_round + ['BAGUETTE', 'DIP', 'UKULELE', 'PICNIC_BASKET']
@@ -56,7 +56,7 @@ SYMBOLS_BY_ROUND = {
     5: fifth_round,
 }
 
-first_round_pst = ['PEARLS', 'BANANAS']
+first_round_pst = ['AMETHYSTS', 'STARFRUIT']
 snd_round_pst = first_round_pst + ['COCONUTS',  'PINA_COLADAS']
 third_round_pst = snd_round_pst + ['DIVING_GEAR', 'BERRIES']
 fourth_round_pst = third_round_pst + ['BAGUETTE', 'DIP', 'UKULELE', 'PICNIC_BASKET']
@@ -132,8 +132,8 @@ def process_trades(df_trades, states: dict[int, TradingState], time_limit, names
     return states
        
 current_limits = {
-    'PEARLS': 20,
-    'BANANAS': 20,
+    'AMETHYSTS': 20,
+    'STARFRUIT': 20,
     'COCONUTS': 600,
     'PINA_COLADAS': 300,
     'DIVING_GEAR': 50,

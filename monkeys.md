@@ -47,7 +47,7 @@ Looks so lovable, but has the sharpest fangs. She's quick on her feet and has un
 Charlie
 Chimpanzee
 
-Always looking for momentum to jump in on a fair trade. Because, well… he just loves jumping. And bananas. Jumping and bananas, yes. Those are the two things that make Charlie happy.
+Always looking for momentum to jump in on a fair trade. Because, well… he just loves jumping. And STARFRUIT. Jumping and STARFRUIT, yes. Those are the two things that make Charlie happy.
 
 Pablo
 Proboscis
@@ -67,7 +67,7 @@ Abides by a very strict trading protocol: never trade on an empty stomach. Also 
 Casey
 Chimpanzee
 
-Full name Cassandra. Casey for short. But she knows how to play the long game too. Always vigilant and with her eyes on the prize. Don't try to distract her while trading. She'll go bananas
+Full name Cassandra. Casey for short. But she knows how to play the long game too. Always vigilant and with her eyes on the prize. Don't try to distract her while trading. She'll go STARFRUIT
 
 George
 Gorilla
